@@ -30,7 +30,7 @@ function banner() {
      ██        ▒▒██                                    V1.4██▒▒        ██
      ██          ▒▒████████████████████████████████████████▒▒          ██
      ██            ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒            ██
-     ██     Coded by: https://github.com/HACK3RY2J                     ██
+     ██     Coded by: https://github.com/iampasindu                    ██
      ██     Youtube : https://bit.ly/37uxmUu                           ██
      ██   Instagram : https://www.instagram.com/_.pasindu/             ██
      ██                                                                ██
