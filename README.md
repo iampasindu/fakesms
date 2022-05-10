@@ -1,0 +1,2 @@
+# fakesms
+SEND FAKE SMS TO ANY NUMBER
