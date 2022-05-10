@@ -62,7 +62,7 @@ To Send Messages Anonymously type the following commands in Termux:
 pkg install git
 pkg install python
 git clone https://github.com/iampasindu/fakesms.git
-cd Anon-SMS
+cd fakesms
 bash Run.sh
 ```
 
@@ -79,7 +79,7 @@ To Send Message Anonymously type the following commands in Linux terminal:
 ```
 sudo apt install git
 git clone https://github.com/iampasindu/fakesms.git
-cd Anon-SMS
+cd fakesms
 sudo bash Run.sh
 ```
 ## CONTRIBUTORS:
