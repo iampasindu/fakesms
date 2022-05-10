@@ -27,8 +27,8 @@ b='\033[1m'
 W = '\033[0m'
 colors = ['\033[1;31m', '\033[1;32m', '\033[1;33m', '\033[1;34m', '\033[1;35m', '\033[1;36m']
 
-# The Credit For This Code Goes To Panda Hackers https://github.com/HACK3RY2J/
-# And The Contributors Mentioned At https://github.com/HACK3RY2J/ANon-SMS/
+# The Credit For This Code Goes To SL CODING LAB https://github.com/iampasindu/ 
+# And The Contributors Mentioned At https://github.com/iampasindu/fakesms.git 
 # If You Wanna Take Credits, Please Look Yourself Again!!
 
 def clr():
@@ -50,8 +50,8 @@ def banner():
      \033[0m██          \033[92m▒▒\033[0m████████████████████████████████████████\033[92m▒▒          \033[0m██
      \033[0m██            \033[92m▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒            \033[0m██
      \033[0m██     \033[94mCoded by: https://github.com/HACK3RY2J                     \033[0m██
-     \033[0m██     \033[94mYoutube : https://www.youtube.com/c/PandaHackers           \033[0m██
-     \033[0m██   \033[94mInstagram : https://instagram.com/Panda_Hackers_Official     \033[0m██
+     \033[0m██     \033[94mYoutube : https://bit.ly/37uxmUu                           \033[0m██
+     \033[0m██   \033[94mInstagram : https://www.instagram.com/_.pasindu/             \033[0m██
      \033[0m██                                                                ██
      \033[0m████████████████████████████████████████████████████████████████████
      \033[92m▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
