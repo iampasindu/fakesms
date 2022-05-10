@@ -71,16 +71,7 @@ def Track() :
   print("There's No Ads.\nThank you for Your Time...")
   exit()
 
-def update():
-    stuff_to_update = ['send.py', 'Run.sh', '.version']
-    for fl in stuff_to_update:
-        dat = urllib.request.urlopen("https://github.com/iampasindu/fakesms.git" + fl).read()
-        file = open(fl, 'wb')
-        file.write(dat)
-        file.close()
-    print('\n\t\tUpdated Successfull !!!!')
-    print('\tRun The Script Again...')
-    exit()
+
 
 clr()
 banner()
